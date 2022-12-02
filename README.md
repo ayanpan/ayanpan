@@ -12,13 +12,20 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
-  
+  </div>
   <img src="https://komarev.com/ghpvc/?username=ayanpan&style=flat-square&color=blue" alt=""/>
   
   <h1>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  
+  ---
+### :man_technologist: About Me :
+  - 👋 Hi, I’m Ayan Pan, presently working as an Integration Architect in Boomi. My GitHub username is @ayanpan
+- 👀 I’m interested in learning Java, Azure, AWS and GCP, along with enhancing my knowledge on SQL, Javascript, Groovy and Linux. 
+- 🌱 I’m currently learning Azure.
+- 📫 Connect with me on LinkedIn - https://www.linkedin.com/in/ayankumarpan/
   
   ---
 
@@ -30,4 +37,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpan&layout=compact&theme=cobalt&hide_border=true" />
   
-</div>
+
