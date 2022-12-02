@@ -56,4 +56,3 @@ https://discover.boomi.com/solutions/connect-woocommerce-with-netsuite
 https://discover.boomi.com/solutions/connect-netsuite-with-woocommerce
 
 https://pentestmag.com/pentest-almanac-0113/
-
