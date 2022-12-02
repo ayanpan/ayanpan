@@ -19,10 +19,10 @@
   
 ---
 ### :man_technologist: About Me:
-  - 👋 Hi, I’m Ayan Pan, presently working as an Integration Architect in Boomi. My GitHub username is @ayanpan
-- 👀 I’m interested in learning Java, Azure, AWS and GCP, along with enhancing my knowledge on SQL, Javascript, Groovy and Linux. 
-- 🌱 I’m currently learning Azure.
-- 📫 Connect with me on LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayankumarpan/)
+- 👋 Hi, I’m Ayan Pan, presently working as an Integration Architect in Boomi. My GitHub username is @ayanpan
+- 👀 I’ve 10+ years of experience in IT industry, out of which 6.5 years are in Boomi, 2 years are in Informatica PowerCenter and 2 years in Windows Server Administration.
+- 🌱 I also hold some level of professional proficiency in SQL, Azure, Salesforce, HubSpot, WooCommerce, Groovy, Javascript, Workato and Cloudsnap.
+- 📫 Connect with me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayankumarpan/)
   
 ---
 ### :fire: My Stats:
