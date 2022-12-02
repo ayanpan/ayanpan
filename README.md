@@ -4,7 +4,7 @@
 - 📫 Connect with me on LinkedIn - https://www.linkedin.com/in/ayankumarpan/
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayanpan)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayanpan&theme=flag-india)](https://git.io/streak-stats)
 
 
 <!---
