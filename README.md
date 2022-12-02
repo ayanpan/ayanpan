@@ -17,12 +17,14 @@
   
 </div>
   
+  
 ---
 ### :man_technologist: About Me:
 - 👋 Hi, I’m Ayan Pan, presently working as an Integration Architect in Boomi. My GitHub username is @ayanpan
 - 👀 I’ve 10+ years of experience in IT industry, out of which 6.5 years are in Boomi, 2 years are in Informatica PowerCenter and 2 years in Windows Server Administration.
 - 🌱 I also hold some level of professional proficiency in SQL, Azure, Salesforce, HubSpot, WooCommerce, Groovy, Javascript, Workato and Cloudsnap.
 - 📫 Connect with me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayankumarpan/)
+  
   
 ---
 ### :fire: My Stats:
@@ -31,6 +33,27 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpan&layout=compact&theme=cobalt&hide_border=true" />
   
+  
 ---
 ### :writing_hand: My Publications:
+
+https://community.boomi.com/s/article/Azure-Blob-Storage-Connectivity-using-Boomi
+
+https://community.boomi.com/s/article/HubSpot-Connectivity-using-Boomi
+
+https://community.boomi.com/s/article/WooCommerce-Connectivity-using-Boomi
+
+https://discover.boomi.com/solutions/data-operations-in-azure-blob-storage
+
+https://discover.boomi.com/solutions/invoice-creation-with-azure-blob-storage
+
+https://discover.boomi.com/solutions/connect-hubspot-to-salesforce
+
+https://discover.boomi.com/solutions/connect-salesforce-to-hubspot
+
+https://discover.boomi.com/solutions/connect-woocommerce-with-netsuite
+
+https://discover.boomi.com/solutions/connect-netsuite-with-woocommerce
+
+https://pentestmag.com/pentest-almanac-0113/
 
