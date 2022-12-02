@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oEduOXu3DBfTazzaw/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3oEduOXu3DBfTazzaw/giphy.gif" width="200"/>
   
   <div id="badges">
     <a href="https://www.youtube.com/channel/UC3YaKty6O_I-JTh3HJsRidg">
