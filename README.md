@@ -27,15 +27,7 @@
 ### :fire: My Stats:
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ayanpan&theme=nightowl&hide_border=true" alt="My github stats" /> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayanpan&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="My github stats" />
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpan&layout=compact&theme=nightowl&hide_border=true" />
-
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=ayanpan&theme=nightowl" />
-
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayanpan&theme=nightowl" />
-
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=ayanpan&theme=nightowl" />
 
 ---
 ### :writing_hand: My Publications:
