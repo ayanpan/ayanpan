@@ -25,7 +25,7 @@
  
 ---
 ### :fire: My Stats:
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ayanpan&theme=dracula" alt="My github stats" /> 
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ayanpan&theme=nightowl" alt="My github stats" /> 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpan&layout=compact&theme=cobalt&hide_border=true" />
   
