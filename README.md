@@ -85,3 +85,15 @@ o Google Analytics
 o Aviatrix Certified Engineer Associate 
 
 o ITIL V3 Foundation
+
+---
+### :medal_sports: My Awards:
+o Received HIGH FIVE award thrice at Boomi Software India Pvt. Ltd.
+
+o Received Spot Award at Deloitte India (Offices of the US). 
+
+o Received Star of the Month award twice at Tata Consultancy Services Ltd.
+
+o Received On The Spot award thrice at Tata Consultancy Services Ltd. 
+
+o Received Best Team and Star Team awards at Tata Consultancy Services Ltd.
