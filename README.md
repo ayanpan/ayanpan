@@ -18,10 +18,13 @@
 
 ---
 ### :man_technologist: About Me:
-- :wave: Hi, I’m Ayan Kumar Pan, presently working as an Integration Architect in Boomi Software India Pvt Ltd.
-- :desktop_computer: I’ve 10+ years of experience in IT industry, out of which 6.5 years are in Boomi, 2 years are in Informatica PowerCenter and 2 years are in Windows Server Administration.
-- :abacus: I also hold some level of professional proficiency in SQL, Azure, Salesforce, HubSpot, WooCommerce, Groovy, Javascript, Workato and Cloudsnap.
-- :mailbox: Connect with me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayankumarpan/)
+o :wave: Hi, I’m Ayan Kumar Pan, presently working as an Integration Architect in Boomi Software India Pvt Ltd.
+
+o :desktop_computer: I’ve 10+ years of experience in IT industry, out of which 6.5 years are in Boomi, 2 years are in Informatica PowerCenter and 2 years are in          Windows Server Administration.
+
+o :abacus: I also hold some level of professional proficiency in SQL, Azure, Salesforce, HubSpot, WooCommerce, Groovy, Javascript, Workato and Cloudsnap.
+
+o :mailbox: Connect with me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayankumarpan/)
  
 ---
 ### :fire: My Stats:
@@ -31,22 +34,54 @@
 
 ---
 ### :writing_hand: My Publications:
-https://community.boomi.com/s/article/Azure-Blob-Storage-Connectivity-using-Boomi
+o https://community.boomi.com/s/article/Azure-Blob-Storage-Connectivity-using-Boomi
 
-https://community.boomi.com/s/article/HubSpot-Connectivity-using-Boomi
+o https://community.boomi.com/s/article/HubSpot-Connectivity-using-Boomi
 
-https://community.boomi.com/s/article/WooCommerce-Connectivity-using-Boomi
+o https://community.boomi.com/s/article/WooCommerce-Connectivity-using-Boomi
 
-https://discover.boomi.com/solutions/data-operations-in-azure-blob-storage
+o https://discover.boomi.com/solutions/data-operations-in-azure-blob-storage
 
-https://discover.boomi.com/solutions/invoice-creation-with-azure-blob-storage
+o https://discover.boomi.com/solutions/invoice-creation-with-azure-blob-storage
 
-https://discover.boomi.com/solutions/connect-hubspot-to-salesforce
+o https://discover.boomi.com/solutions/connect-hubspot-to-salesforce
 
-https://discover.boomi.com/solutions/connect-salesforce-to-hubspot
+o https://discover.boomi.com/solutions/connect-salesforce-to-hubspot
 
-https://discover.boomi.com/solutions/connect-woocommerce-with-netsuite
+o https://discover.boomi.com/solutions/connect-woocommerce-with-netsuite
 
-https://discover.boomi.com/solutions/connect-netsuite-with-woocommerce
+o https://discover.boomi.com/solutions/connect-netsuite-with-woocommerce
 
-https://pentestmag.com/pentest-almanac-0113/
+o https://pentestmag.com/pentest-almanac-0113/
+
+---
+### :page_facing_up: My Certifications:
+o Boomi Professional Architect 
+
+o Boomi Professional Developer 
+
+o Boomi Production Administrator 
+
+o Boomi Professional API Design and Management 
+
+o Boomi Associate Master Data Hub 
+
+o Boomi Professional Flow
+
+o Microsoft Certified: Azure Fundamentals
+
+o Microsoft Certified: Azure Data Fundamentals
+
+o Workato Automation Pro-I
+
+o Workato Automation Pro-II 
+
+o Celigo Level 1 
+
+o SAP Cloud Platform Integration Suite 
+
+o Google Analytics 
+
+o Aviatrix Certified Engineer Associate 
+
+o ITIL V3 Foundation
