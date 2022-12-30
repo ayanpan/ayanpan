@@ -99,3 +99,6 @@ o Received Star of the Month award twice at Tata Consultancy Services Ltd.
 o Received On The Spot award thrice at Tata Consultancy Services Ltd. 
 
 o Received Best Team and Star Team awards at Tata Consultancy Services Ltd.
+
+---
+<p align="center"> © 2022 Ayan Kumar Pan, all rights reserved. </p>
