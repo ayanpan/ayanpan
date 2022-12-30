@@ -30,7 +30,7 @@ o :mailbox: Connect with me on [![Linkedin Badge](https://img.shields.io/badge/L
 ### :fire: My Stats:
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ayanpan&theme=nightowl&hide_border=true" alt="My github stats" /> 
 
-![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayapan&theme=nightowl&show_icons=true)
+![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayapan&theme=nightowl&show_icons=true&hide_border=true)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpan&layout=compact&theme=nightowl&hide_border=true" />
 
