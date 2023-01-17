@@ -78,7 +78,11 @@ o Workato Automation Pro-I
 
 o Workato Automation Pro-II 
 
+o Workato Automation Pro-III
+
 o Celigo Level 1 
+
+o Celigo Level 2
 
 o SAP Cloud Platform Integration Suite 
 
