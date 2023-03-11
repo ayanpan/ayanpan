@@ -98,7 +98,7 @@ o ITIL V3 Foundation
 
 ---
 ### :medal_sports: My Awards:
-o Received HIGH FIVE award thrice at Boomi Software India Pvt. Ltd.
+o Received HIGH 5 award thrice at Boomi Software India Pvt. Ltd.
 
 o Received Spot Award at Deloitte India (Offices of the US). 
 
