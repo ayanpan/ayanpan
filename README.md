@@ -36,6 +36,10 @@ o :mailbox: Connect with me on [![Linkedin Badge](https://img.shields.io/badge/L
 
 ---
 ### :writing_hand: My Publications:
+o https://community.boomi.com/s/article/Common-D365-Errors-Resolution
+
+o https://community.boomi.com/s/article/Send-Email-in-HTML-format-from-Boomi
+
 o https://community.boomi.com/s/article/Azure-Blob-Storage-Connectivity-using-Boomi
 
 o https://community.boomi.com/s/article/HubSpot-Connectivity-using-Boomi
@@ -70,9 +74,11 @@ o Boomi Associate Master Data Hub
 
 o Boomi Professional Flow
 
-o Microsoft Certified: Azure Fundamentals
+o Microsoft Certified: Azure Fundamentals (AZ-900)
 
-o Microsoft Certified: Azure Data Fundamentals
+o Microsoft Certified: Azure Data Fundamentals (DP-900)
+
+o Microsoft Certified: Azure Security, Compliance and Identity Fundamentals (SC-900)
 
 o Workato Automation Pro-I
 
@@ -85,8 +91,6 @@ o Celigo Level 1
 o Celigo Level 2
 
 o SAP Cloud Platform Integration Suite 
-
-o Google Analytics 
 
 o Aviatrix Certified Engineer Associate 
 
