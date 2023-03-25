@@ -8,7 +8,7 @@
     <a href="https://www.instagram.com/ayankumarpan_world/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://www.youtube.com/channel/UC3YaKty6O_I-JTh3HJsRidg">
+    <a href="https://www.youtube.com/@ayanpan">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
@@ -22,7 +22,7 @@ o :wave: Hi, I’m Ayan Kumar Pan, presently working as an Integration Architect
 
 o :desktop_computer: I’ve 10+ years of experience in IT industry, out of which 6.5 years are in Boomi, 2 years are in Informatica PowerCenter and 2 years are in          Windows Server Administration.
 
-o :abacus: I also hold some level of professional proficiency in Kong, SQL, Azure, Salesforce, HubSpot, WooCommerce, Groovy, Javascript, Workato, Celigo and Cloudsnap.
+o :abacus: I also hold some level of professional proficiency in Kong, SQL, Azure, Salesforce, HubSpot, WooCommerce, Groovy, Javascript, Workato, Celigo and Cloudsnap. along with strong knowledge of IT Service Management processes and managing teams, having experience working in Agile and Waterfall methodologies.
 
 o :mailbox: Connect with me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayankumarpan/)
  
