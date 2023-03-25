@@ -18,11 +18,13 @@
 
 ---
 ### :man_technologist: About Me:
-o :wave: Hi, I’m Ayan Kumar Pan, presently working as an Integration Architect in Boomi Software India Pvt Ltd.
+o :wave: Hi, I’m Ayan Kumar Pan, presently working as a Data Integration Architect in Boomi Software India Pvt Ltd.
 
 o :desktop_computer: I’ve 10+ years of experience in IT industry, out of which 6.5 years are in Boomi, 2 years are in Informatica PowerCenter and 2 years are in          Windows Server Administration.
 
-o :abacus: I also hold some level of professional proficiency in Kong, SQL, Azure, Salesforce, HubSpot, WooCommerce, Groovy, Javascript, Workato, Celigo and Cloudsnap. along with strong knowledge of IT Service Management processes and managing teams, having experience working in Agile and Waterfall methodologies.
+o :abacus: I also hold some level of professional proficiency in Kong, SQL, Azure, Salesforce, HubSpot, WooCommerce, Groovy, Javascript, Workato, Celigo and Cloudsnap. 
+
+o :trackball: I've strong knowledge of IT Service Management processes and managing teams, having experience working in Agile and Waterfall methodologies.
 
 o :mailbox: Connect with me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayankumarpan/)
  
