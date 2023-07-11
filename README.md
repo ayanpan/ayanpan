@@ -18,7 +18,7 @@
 
 ---
 ### :man_technologist: About Me:
-o :wave: Hi, I’m Ayan Kumar Pan, presently working as a Data Integration Specialist in Pure Storage, Inc.
+o :wave: Hi, I’m Ayan Kumar Pan, presently working as a Data Integration Specialist in Pure Storage.
 
 o :desktop_computer: I’ve 10+ years of experience in IT industry, out of which 7 years are in Boomi, 2 years are in Informatica PowerCenter and 2 years are in Windows Server Administration.
 
