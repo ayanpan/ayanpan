@@ -77,14 +77,23 @@ o Boomi Professional API Design
 o Boomi Associate Master Data Hub
 
 o Boomi Flow Associate
+
 o Boomi Associate Event Streams
+
 o Boomi Associate EDI for X12
+
 o Boomi Associate Master Data Hub
+
 o Microsoft Certified: AZ-900, DP-900, SC-900
+
 o Workato Automation Pro-III
+
 o Celigo Level 3 : MASTER
+
 o SAP Cloud Platform Integration Suite
+
 o ITIL V3 Foundation
+
 o Scrum Fundamentals Certified (SFC)
 
 ---
