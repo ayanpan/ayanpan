@@ -64,39 +64,28 @@ o https://pentestmag.com/pentest-almanac-0113/
 
 ---
 ### :page_facing_up: My Certifications:
-o Boomi Professional Architect 
+o Boomi Development and Application Architecture
 
-o Boomi Professional Developer 
+o Boomi Professional Developer
 
-o Boomi Production Administrator 
+o Boomi Production Administrator
 
-o Boomi Professional API Design and Management 
+o Boomi Professional API Management
 
-o Boomi Associate Master Data Hub 
+o Boomi Professional API Design
 
-o Boomi Professional Flow
+o Boomi Associate Master Data Hub
 
-o Microsoft Certified: Azure Fundamentals (AZ-900)
-
-o Microsoft Certified: Azure Data Fundamentals (DP-900)
-
-o Microsoft Certified: Azure Security, Compliance and Identity Fundamentals (SC-900)
-
-o Workato Automation Pro-I
-
-o Workato Automation Pro-II 
-
+o Boomi Flow Associate
+o Boomi Associate Event Streams
+o Boomi Associate EDI for X12
+o Boomi Associate Master Data Hub
+o Microsoft Certified: AZ-900, DP-900, SC-900
 o Workato Automation Pro-III
-
-o Celigo Level 1 
-
-o Celigo Level 2
-
-o SAP Cloud Platform Integration Suite 
-
-o Aviatrix Certified Engineer Associate 
-
+o Celigo Level 3 : MASTER
+o SAP Cloud Platform Integration Suite
 o ITIL V3 Foundation
+o Scrum Fundamentals Certified (SFC)
 
 ---
 ### :medal_sports: My Awards:
