@@ -22,7 +22,7 @@ o :wave: Hi, I’m Ayan Kumar Pan, presently working as a Data Integration Speci
 
 o :desktop_computer: I’ve 11 years of experience in IT industry, out of which 7 years are in Boomi, 2 years are in Informatica PowerCenter and 2 years are in Windows Server Administration.
 
-o :abacus: I also hold some level of professional proficiency in Kong, SQL, Azure, Salesforce, HubSpot, WooCommerce, Groovy, Javascript, Workato, Celigo and Cloudsnap 
+o :abacus: I also hold some level of professional proficiency in Kong, SQL, Azure, Salesforce, HubSpot, WooCommerce, Groovy, Javascript, Workato, Celigo and Cloudsnap. 
 
 o :trackball: I've strong knowledge of IT Service Management processes and managing teams, having experience working in Agile and Waterfall methodologies.
 
