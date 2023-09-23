@@ -1,4 +1,6 @@
-# Welcome to Ayan's GitHub Page
+<div id="header" align="center">
+  <h2>Welcome to Ayan's GitHub Page</h2>
+</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
