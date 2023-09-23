@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <h2>Welcome to Ayan's GitHub Page</h2>
+  <h1>Welcome to Ayan's GitHub Page</h1>
+  
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
   
   <div id="badges">
