@@ -100,12 +100,16 @@ o Scrum Fundamentals Certified (SFC)
 
 ---
 ### :medal_sports: My Awards:
-o Received HIGH 5 award thrice at Boomi Software India Pvt. Ltd.
+o Received "DTG Driver" award at Pure Storage.
 
-o Received Spot Award at Deloitte India (Offices of the US). 
+o Received "DTG Peer to Peer" award at Pure Storage.
 
-o Received Star of the Month award twice at Tata Consultancy Services Ltd.
+o Received "HIGH 5" award thrice at Boomi Software India Pvt. Ltd.
 
-o Received On The Spot award thrice at Tata Consultancy Services Ltd. 
+o Received "Spot" award at Deloitte India (Offices of the US). 
 
-o Received Best Team and Star Team awards at Tata Consultancy Services Ltd.
+o Received "Star of the Month" award twice at Tata Consultancy Services Ltd.
+
+o Received "On The Spot" award thrice at Tata Consultancy Services Ltd. 
+
+o Received "Best Team" and "Star Team" awards at Tata Consultancy Services Ltd.
