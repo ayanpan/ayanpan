@@ -90,7 +90,7 @@ o Microsoft Certified: AZ-900, DP-900, SC-900
 
 o Workato Automation Pro-III
 
-o Celigo Level 3 : MASTER
+o Celigo Level 4 : LEGENDARY
 
 o SAP Cloud Platform Integration Suite
 
