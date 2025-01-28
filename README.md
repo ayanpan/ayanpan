@@ -80,17 +80,27 @@ o https://discover.boomi.com/solutions/connect-netsuite-with-woocommerce
 o https://pentestmag.com/pentest-almanac-0113/
 
 ---
-### :page_facing_up: 🎓 Certifications:
+🎓 Certifications:
+
 I continuously expand my expertise with industry-recognized certifications:
+
 🏆 Boomi Certifications – Professional Architect and Developer, Professional API Design and Management, Associate EDI, Associate Master Data Hub, and more
+
 🏆 Microsoft Certified – AZ-900, DP-900, SC-900
+
 🏆 Workato & Celigo Certified – Workato Automation Pro-III, Celigo Level 4 (LEGENDARY)
+
 🏆 SAP Cloud Platform Integration, ITIL, Scrum Certified
 
 ---
-### :medal_sports: 🏅 Awards & Recognition:
+🏅 Awards & Recognition:
+
 My work has been recognized across organizations:
+
 🏆 DTG Driver, Peer to Peer (3x) & Spot (2x) Awards – Pure Storage
+
 🏆 HIGH 5 Award (3x) – Boomi 
+
 🏆 Spot Award – Deloitte
+
 🏆 Star of the Month (2x), Spot (3x), Best & Star Team Awards - TCS
