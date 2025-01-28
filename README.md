@@ -20,7 +20,7 @@
 
 ---
 ### :man_technologist: About Me:
-o :wave: Hi, I’m Ayan Kumar Pan, a passionate Data Integration Specialist at Pure Storage, with over 12 years of experience in the IT industry. My expertise lies in data integration, automation, and cloud technologies, helping businesses streamline their operations and unlock the full potential of their data.
+:wave: Hi, I’m Ayan Kumar Pan, a passionate Data Integration Specialist at Pure Storage, with over 12 years of experience in the IT industry. My expertise lies in data integration, automation, and cloud technologies, helping businesses streamline their operations and unlock the full potential of their data.
 
 💡 What I Bring to the Table:
 
