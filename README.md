@@ -53,8 +53,6 @@ o :wave: Hi, I’m Ayan Kumar Pan, a passionate Data Integration Specialist at P
 
 I've authored multiple technical articles, integration solutions, and best practices that help professionals and enterprises tackle real-world challenges.
 
-📌 Explore my work:
-
 o https://community.boomi.com/s/article/Common-D365-Errors-Resolution
 
 o https://community.boomi.com/s/article/Send-Email-in-HTML-format-from-Boomi
