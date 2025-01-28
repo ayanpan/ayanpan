@@ -23,14 +23,21 @@
 o :wave: Hi, I’m Ayan Kumar Pan, a passionate Data Integration Specialist at Pure Storage, with over 12 years of experience in the IT industry. My expertise lies in data integration, automation, and cloud technologies, helping businesses streamline their operations and unlock the full potential of their data.
 
 💡 What I Bring to the Table:
+
 ✅ Boomi and Data Integration Expert – 8+ years of hands-on experience
+
 ✅ ETL – 2 years in Informatica PowerCenter
+
 ✅ Windows Server Administration – 2 years of system management
+
 ✅ Multi-Tech Proficiency – Kong, SQL, Azure, Salesforce, HubSpot, WooCommerce, Groovy, JavaScript, Workato, Celigo, Cloudsnap
 
 🚀 Leadership & Impact:
+
 🔹 Led teams of 10+ professionals, successfully delivering complex projects on time
+
 🔹 Strong track record in solution architecture, API management, and cloud integrations
+
 🔹 Contributor to the Boomi Community, sharing best practices and solving industry challenges
  
 ---
@@ -42,10 +49,12 @@ o :wave: Hi, I’m Ayan Kumar Pan, a passionate Data Integration Specialist at P
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpan&layout=compact&theme=nightowl&hide_border=true" />
 
 ---
-### :writing_hand: 📖 Publications & Contributions:
+📖 Publications & Contributions:
+
 I've authored multiple technical articles, integration solutions, and best practices that help professionals and enterprises tackle real-world challenges.
 
 📌 Explore my work:
+
 o https://community.boomi.com/s/article/Common-D365-Errors-Resolution
 
 o https://community.boomi.com/s/article/Send-Email-in-HTML-format-from-Boomi
