@@ -20,15 +20,18 @@
 
 ---
 ### :man_technologist: About Me:
-o :wave: Hi, I’m Ayan Kumar Pan, presently working as a Data Integration Specialist at Pure Storage.
+o :wave: Hi, I’m Ayan Kumar Pan, a passionate Data Integration Specialist at Pure Storage, with over 12 years of experience in the IT industry. My expertise lies in data integration, automation, and cloud technologies, helping businesses streamline their operations and unlock the full potential of their data.
 
-o :desktop_computer: I’ve 12+ years of experience in IT industry, out of which 8+ years are in Boomi, 2 years are in Informatica PowerCenter and 2 years are in Windows Server Administration.
+💡 What I Bring to the Table:
+✅ Boomi and Data Integration Expert – 8+ years of hands-on experience
+✅ ETL – 2 years in Informatica PowerCenter
+✅ Windows Server Administration – 2 years of system management
+✅ Multi-Tech Proficiency – Kong, SQL, Azure, Salesforce, HubSpot, WooCommerce, Groovy, JavaScript, Workato, Celigo, Cloudsnap
 
-o :abacus: I also hold some level of professional proficiency in Kong, SQL, Azure, Salesforce, HubSpot, WooCommerce, Groovy, Javascript, Workato, Celigo and Cloudsnap. 
-
-o :trackball: I've strong knowledge of IT Service Management processes and managing teams, having experience working in Agile and Waterfall methodologies.
-
-o :mailbox: Connect with me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayankumarpan/)
+🚀 Leadership & Impact:
+🔹 Led teams of 10+ professionals, successfully delivering complex projects on time
+🔹 Strong track record in solution architecture, API management, and cloud integrations
+🔹 Contributor to the Boomi Community, sharing best practices and solving industry challenges
  
 ---
 ### :fire: My Stats:
@@ -39,7 +42,10 @@ o :mailbox: Connect with me on [![Linkedin Badge](https://img.shields.io/badge/L
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpan&layout=compact&theme=nightowl&hide_border=true" />
 
 ---
-### :writing_hand: My Publications:
+### :writing_hand: 📖 Publications & Contributions:
+I've authored multiple technical articles, integration solutions, and best practices that help professionals and enterprises tackle real-world challenges.
+
+📌 Explore my work:
 o https://community.boomi.com/s/article/Common-D365-Errors-Resolution
 
 o https://community.boomi.com/s/article/Send-Email-in-HTML-format-from-Boomi
@@ -65,51 +71,17 @@ o https://discover.boomi.com/solutions/connect-netsuite-with-woocommerce
 o https://pentestmag.com/pentest-almanac-0113/
 
 ---
-### :page_facing_up: My Certifications:
-o Boomi Development and Application Architecture
-
-o Boomi Professional Developer
-
-o Boomi Production Administrator
-
-o Boomi Professional API Management
-
-o Boomi Professional API Design
-
-o Boomi Associate Master Data Hub
-
-o Boomi Flow Associate
-
-o Boomi Associate Event Streams
-
-o Boomi Associate EDI for X12
-
-o Boomi Associate Master Data Hub
-
-o Microsoft Certified: AZ-900, DP-900, SC-900
-
-o Workato Automation Pro-III
-
-o Celigo Level 4 : LEGENDARY
-
-o SAP Cloud Platform Integration Suite
-
-o ITIL V3 Foundation
-
-o Scrum Fundamentals Certified (SFC)
+### :page_facing_up: 🎓 Certifications:
+I continuously expand my expertise with industry-recognized certifications:
+🏆 Boomi Certifications – Professional Architect and Developer, Professional API Design and Management, Associate EDI, Associate Master Data Hub, and more
+🏆 Microsoft Certified – AZ-900, DP-900, SC-900
+🏆 Workato & Celigo Certified – Workato Automation Pro-III, Celigo Level 4 (LEGENDARY)
+🏆 SAP Cloud Platform Integration, ITIL, Scrum Certified
 
 ---
-### :medal_sports: My Awards:
-o Received "DTG Driver" award at Pure Storage.
-
-o Received "DTG Peer to Peer" award at Pure Storage.
-
-o Received "HIGH 5" award thrice at Boomi Software India Pvt. Ltd.
-
-o Received "Spot" award at Deloitte India (Offices of the US). 
-
-o Received "Star of the Month" award twice at Tata Consultancy Services Ltd.
-
-o Received "On The Spot" award thrice at Tata Consultancy Services Ltd. 
-
-o Received "Best Team" and "Star Team" awards at Tata Consultancy Services Ltd.
+### :medal_sports: 🏅 Awards & Recognition:
+My work has been recognized across organizations:
+🏆 DTG Driver, Peer to Peer (3x) & Spot (2x) Awards – Pure Storage
+🏆 HIGH 5 Award (3x) – Boomi 
+🏆 Spot Award – Deloitte
+🏆 Star of the Month (2x), Spot (3x), Best & Star Team Awards - TCS
