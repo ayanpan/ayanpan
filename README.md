@@ -89,9 +89,7 @@ o https://pentestmag.com/pentest-almanac-0113/
 🏆 SAP Cloud Platform Integration, ITIL, Scrum Certified
 
 ---
-🏅 Awards & Recognition:
-
-My work has been recognized across organizations:
+### 🏅 Awards & Recognition:
 
 🏆 DTG Driver, Peer to Peer (3x) & Spot (2x) Awards – Pure Storage
 
