@@ -20,11 +20,12 @@
 
 ---
 ### :man_technologist: About Me:
-:wave: Hi, I’m Ayan Kumar Pan, a passionate Data Integration Specialist at Pure Storage, with over 12 years of experience in the IT industry. My expertise lies in data integration, automation, and cloud technologies, helping businesses streamline their operations and unlock the full potential of their data.
 
-💡 What I Bring to the Table:
+👋 Hi, I’m Ayan Kumar Pan, a passionate Data Integration Specialist at Pure Storage, with over 12 years of experience in the IT industry. My expertise lies in data integration, automation, and cloud technologies, helping businesses streamline their operations and unlock the full potential of their data.
 
-✅ Boomi and Data Integration Expert – 8+ years of hands-on experience
+💡 My Expertise:
+
+✅ Boomi and Data Integration – 8+ years of hands-on experience
 
 ✅ ETL – 2 years in Informatica PowerCenter
 
@@ -34,11 +35,11 @@
 
 🚀 Leadership & Impact:
 
-🔹 Led teams of 10+ professionals, successfully delivering complex projects on time
+🔹 Led teams of 10+ professionals, delivering complex projects on time and within budget.
 
-🔹 Strong track record in solution architecture, API management, and cloud integrations
+🔹 Designed and implemented scalable and efficient integration solutions for diverse business needs.
 
-🔹 Contributor to the Boomi Community, sharing best practices and solving industry challenges
+🔹 Active contributor to the Boomi Community, sharing knowledge and helping others succeed.
  
 ---
 ### :fire: My Stats:
