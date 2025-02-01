@@ -51,7 +51,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpan&layout=compact&theme=nightowl&hide_border=true" />
 
 ---
-📖 Featured Work & Contributions:
+### 📖 Featured Work & Contributions:
 
 o https://community.boomi.com/s/article/Common-D365-Errors-Resolution
 
@@ -78,7 +78,7 @@ o https://discover.boomi.com/solutions/connect-netsuite-with-woocommerce
 o https://pentestmag.com/pentest-almanac-0113/
 
 ---
-🎓 Certifications:
+### 🎓 Certifications:
 
 🏆 Boomi Certifications – Professional Architect and Developer, Professional API Design and Management, Associate EDI, Associate Master Data Hub, and more
 
