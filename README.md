@@ -51,9 +51,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpan&layout=compact&theme=nightowl&hide_border=true" />
 
 ---
-📖 Publications & Contributions:
-
-I've authored multiple technical articles, integration solutions, and best practices that help professionals and enterprises tackle real-world challenges.
+📖 Featured Work & Contributions:
 
 o https://community.boomi.com/s/article/Common-D365-Errors-Resolution
 
@@ -81,8 +79,6 @@ o https://pentestmag.com/pentest-almanac-0113/
 
 ---
 🎓 Certifications:
-
-I continuously expand my expertise with industry-recognized certifications:
 
 🏆 Boomi Certifications – Professional Architect and Developer, Professional API Design and Management, Associate EDI, Associate Master Data Hub, and more
 
