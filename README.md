@@ -13,6 +13,9 @@
     <a href="https://www.youtube.com/@ayanpan">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
+    <a href="https://www.x.com/ayankumarpan">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)" alt="X Badge"/>
+    </a>
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=ayanpan&style=flat-square&color=blue" alt=""/>
