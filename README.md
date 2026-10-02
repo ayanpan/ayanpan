@@ -94,7 +94,7 @@
 
 ### 🏅 Awards & Recognition:
 
-⭐ **Pure Storage:** DTG Nexus Award (2x), Spot Award (2x), DTG Peer to Peer Award (6x)
+⭐ **Everpure (formerly Pure Storage):** DTG Nexus Award (2x), Spot Award (2x), DTG Peer to Peer Award (6x)
 
 ⭐ **Boomi:** HIGH 5 Award (3x)
 
