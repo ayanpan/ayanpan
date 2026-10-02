@@ -29,9 +29,9 @@
 
 #### 💡 Core Technical & Strategic Focus:
 
-✅ **Platforms & iPaaS:** Boomi (Core, API Management, MDH), Workato, Celigo, SAP CPI, Informatica
+✅ **Platforms & iPaaS:** Boomi (Integration, API Management, EDI, MDH), Workato, Celigo, SAP CPI, Informatica
 
-✅ **Connected Ecosystems:** Salesforce, NetSuite, Snowflake, Workday, Zuora, Reltio, ServiceNow, AWS, Azure, SQL
+✅ **Connected Ecosystems:** Salesforce, NetSuite, Snowflake, Jira, Anaplan, Workday, Zuora, Reltio, ServiceNow, AWS, Azure, SQL
 
 ✅ **Architecture:** Enterprise Integration Blueprints, API Security & Gateways (Kong), EDI, Event-Driven Architecture, AI Agents
 
@@ -53,7 +53,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ayanpan&theme=nightowl&hide_border=true" alt="My github stats" /> 
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayanpan&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="My github stats" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayanpan&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="My github stats" /> 
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpan&layout=compact&theme=nightowl&hide_border=true" />
 </div>
