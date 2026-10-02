@@ -53,7 +53,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ayanpan&theme=nightowl&hide_border=true" alt="My github stats" /> 
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayanpan&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="My github stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ayanpan&show_icons=true&theme=nightowl&hide_border=true" alt="My github stats" /> 
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpan&layout=compact&theme=nightowl&hide_border=true" />
 </div>
