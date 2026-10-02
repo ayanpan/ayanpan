@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="https://www.x.com/ayankumarpan">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)" alt="X Badge"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
     </a>
   </div>
   
@@ -22,82 +22,82 @@
 </div>
 
 ---
+
 ### :man_technologist: About Me:
 
-👋 Hi, I’m Ayan Kumar Pan, a passionate Data Integration Specialist at Pure Storage, with over 12 years of experience in the IT industry. My expertise lies in data integration, automation, and cloud technologies, helping businesses streamline their operations and unlock the full potential of their data.
+👋 Hi, I’m Ayan Kumar Pan, an **Integration Lead & Architect** with 14+ years of experience orchestrating enterprise data flows and system architecture. I specialize in designing scalable integrations, API management, and AI-driven automations to turn big-picture business goals into resilient technical platforms, heavily focusing on Quote-to-Cash (QTC) and Quote-to-Revenue (QTR) ecosystems.
 
-#### 💡 My Expertise:
+#### 💡 Core Technical & Strategic Focus:
 
-✅ Boomi and Data Integration – 8+ years of hands-on experience
+✅ **Platforms & iPaaS:** Boomi (Core, API Management, MDH), Workato, Celigo, SAP CPI, Informatica
 
-✅ ETL – 2 years in Informatica PowerCenter
+✅ **Connected Ecosystems:** Salesforce, NetSuite, Snowflake, Workday, Zuora, Reltio, ServiceNow, AWS, Azure, SQL
 
-✅ Windows Server Administration – 2 years of system management
+✅ **Architecture:** Enterprise Integration Blueprints, API Security & Gateways (Kong), EDI, Event-Driven Architecture, AI Agents
 
-✅ Multi-Tech Proficiency – Kong, SQL, Azure, Salesforce, HubSpot, WooCommerce, Groovy, JavaScript, Workato, Celigo, Cloudsnap
-
+✅ **Systems Background:** Strong foundation in Windows Server Administration and Infrastructure Operations
 
 #### 🚀 Leadership & Impact:
 
-🔹 Led teams of 10+ professionals, delivering complex projects on time and within budget.
+🔹 **Delivery & Scale:** Lead multi-stream integration transformations, including complex Subscription and Revenue Management overhauls from architecture to global delivery.
 
-🔹 Designed and implemented scalable and efficient integration solutions for diverse business needs.
+🔹 **Automation Engineering:** Built reusable connectors, AI-assisted debugging utilities, and automated workflows that cut thousands of manual work hours annually.
 
-🔹 Active contributor to the Boomi Community, sharing knowledge and helping others succeed.
+🔹 **Team Mentorship:** Lead and mentor engineering teams of 10+ developers, lifting delivery output by 30%+ through clear governance and best practices.
+
+🔹 **Community Builder:** Co-organizer of the Boomi User Group (Bengaluru) and active publisher of reusable integration assets.
  
 ---
+
 ### :fire: My Stats:
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ayanpan&theme=nightowl&hide_border=true" alt="My github stats" /> 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayanpan&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="My github stats" /> 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpan&layout=compact&theme=nightowl&hide_border=true" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayanpan&theme=nightowl&hide_border=true" alt="My github stats" /> 
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayanpan&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="My github stats" /> 
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpan&layout=compact&theme=nightowl&hide_border=true" />
+</div>
 
 ---
+
 ### 📖 Featured Work & Contributions:
 
-o https://community.boomi.com/s/article/Common-D365-Errors-Resolution
+**Boomi Community Articles & Guides:**
+* 📝 [Common D365 Errors & Resolution](https://community.boomi.com/s/article/Common-D365-Errors-Resolution)
+* 📝 [Send Email in HTML format from Boomi](https://community.boomi.com/s/article/Send-Email-in-HTML-format-from-Boomi)
+* 📝 [Azure Blob Storage Connectivity using Boomi](https://community.boomi.com/s/article/Azure-Blob-Storage-Connectivity-using-Boomi)
+* 📝 [HubSpot Connectivity using Boomi](https://community.boomi.com/s/article/HubSpot-Connectivity-using-Boomi)
+* 📝 [WooCommerce Connectivity using Boomi](https://community.boomi.com/s/article/WooCommerce-Connectivity-using-Boomi)
 
-o https://community.boomi.com/s/article/Send-Email-in-HTML-format-from-Boomi
+**Boomi Discover Solutions:**
+* 🧩 [Data Operations in Azure Blob Storage](https://discover.boomi.com/solutions/data-operations-in-azure-blob-storage)
+* 🧩 [Invoice Creation with Azure Blob Storage](https://discover.boomi.com/solutions/invoice-creation-with-azure-blob-storage)
+* 🧩 [Connect HubSpot to Salesforce](https://discover.boomi.com/solutions/connect-hubspot-to-salesforce) | [Salesforce to HubSpot](https://discover.boomi.com/solutions/connect-salesforce-to-hubspot)
+* 🧩 [Connect WooCommerce with NetSuite](https://discover.boomi.com/solutions/connect-woocommerce-with-netsuite) | [NetSuite to WooCommerce](https://discover.boomi.com/solutions/connect-netsuite-with-woocommerce)
 
-o https://community.boomi.com/s/article/Azure-Blob-Storage-Connectivity-using-Boomi
-
-o https://community.boomi.com/s/article/HubSpot-Connectivity-using-Boomi
-
-o https://community.boomi.com/s/article/WooCommerce-Connectivity-using-Boomi
-
-o https://discover.boomi.com/solutions/data-operations-in-azure-blob-storage
-
-o https://discover.boomi.com/solutions/invoice-creation-with-azure-blob-storage
-
-o https://discover.boomi.com/solutions/connect-hubspot-to-salesforce
-
-o https://discover.boomi.com/solutions/connect-salesforce-to-hubspot
-
-o https://discover.boomi.com/solutions/connect-woocommerce-with-netsuite
-
-o https://discover.boomi.com/solutions/connect-netsuite-with-woocommerce
-
-o https://pentestmag.com/pentest-almanac-0113/
+**External Publications:**
+* 🔒 [PenTest Magazine Almanac (Technical Contributor)](https://pentestmag.com/pentest-almanac-0113/)
 
 ---
+
 ### 🎓 Certifications:
 
-🏆 Boomi Certifications – Professional Architect and Developer, Professional API Design and Management, Associate EDI, Associate Master Data Hub, and more
+🏆 **Boomi:** Professional Architect, Professional Developer, Professional API Design & Management, Associate EDI, Associate Master Data Hub, and more
 
-🏆 Microsoft Certified – AZ-900, DP-900, SC-900
+🏆 **Workato & Celigo:** Workato Automation Pro-III, Celigo Level 4 (LEGENDARY)
 
-🏆 Workato & Celigo Certified – Workato Automation Pro-III, Celigo Level 4 (LEGENDARY)
+🏆 **Microsoft Cloud:** Certified AZ-900, DP-900, SC-900
 
-🏆 SAP Cloud Platform Integration, ITIL, Scrum Certified
+🏆 **Additional:** SAP Cloud Platform Integration (CPI), ITIL, Scrum Certified
 
 ---
+
 ### 🏅 Awards & Recognition:
 
-🏆 DTG Driver, Peer to Peer (3x) & Spot (2x) Awards – Pure Storage
+⭐ **Pure Storage:** DTG Nexus Award (2x), Spot Award (2x), DTG Peer to Peer Award (6x)
 
-🏆 HIGH 5 Award (3x) – Boomi 
+⭐ **Boomi:** HIGH 5 Award (3x)
 
-🏆 Spot Award – Deloitte
+⭐ **Deloitte:** Spot Award
 
-🏆 Star of the Month (2x), Spot (3x), Best & Star Team Awards - TCS
+⭐ **TCS:** Star of the Month (2x), Spot Award (3x), Best & Star Team Awards
